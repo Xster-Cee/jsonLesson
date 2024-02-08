@@ -1,0 +1,69 @@
+{
+    "naturalElementName": "African Mountains",
+    "location": "Africa",
+    "raceOfInhabitants": "Black Africans",
+    "natural": true,
+    "elementType": "Solid",
+    "mountains": [
+        {
+            "mountainName": "kilimanjaro",
+            "location": "Tanzania",
+            "feet": 19341,
+            "age": "1 million years +",
+            "discoveryTime": "19th century",
+            "minerals": [
+                "gypsun",
+                "graphite",
+                "quartz"
+            ]
+        },
+        {
+            "mountainName": "Mount Kenya",
+            "location": "Kenya",
+            "feet": 17057,
+            "age": "2 million years +",
+            "discoveryTime": 1849,
+            "minerals": [
+                "gold",
+                "iron ore",
+                "saphire",
+                "rubies"
+            ]   
+        },
+        {
+            "mountainName": "Mount Elgon",
+            "location": "Uganda",
+            "feet": 14177,
+            "age": "1 million years +",
+            "discoveryTime": 1890,
+            "minerals": [
+                "gold",
+                "iron ore",
+                "Lime stone"
+            ]   
+        },
+        {
+            "mountainName": "Mount Drakensberg",
+            "location": "South Africa",
+            "feet": 11420,
+            "age": "For Several Centuries ago",
+            "discoveryTime": 1840,
+            "minerals": [
+                "gold",
+                "coal",
+                "diamonds"
+            ]   
+        },
+        {
+            "mountainName": "Mount Simien",
+            "location": "Ethiopia",
+            "feet": 14928,
+            "age": "1 million years +",
+            "discoveryTime": 1789,
+            "minerals": [
+                "gold",
+                "opals"
+          ]   
+        }
+    ]
+  }
